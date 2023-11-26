@@ -2,7 +2,7 @@ Package: com.pookjw.actionbuttonenabler
 Name: ActionButtonEnabler
 Version: 1.0.1
 Architecture: iphoneos-arm64
-Description: Hello World!
+Description: Enable Action Button on all devices!
 Maintainer: pookjw
 Author: pookjw
 Section: Tweaks
